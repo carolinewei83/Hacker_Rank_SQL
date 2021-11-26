@@ -5,7 +5,7 @@
 -- total number of managers, and total number of employees. 
 -- Order your output by ascending company_code.
 
--- Link:https://www.hackerrank.com/challenges/the-company/problem
+-- Link:https://www.hackerrank.com/challenges/binary-search-tree-1/problem
 
 -- Note:
 -- The tables may contain duplicate records.
